@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VIT BANK</string>
+<string name="coopy">VIT University is a progressive educational institution that is dedicated to the pursuit of excellence. Students here are encouraged on this journey by our committed faculty, world-class facilities and student-friendly educational systems.
+
+VIT University was founded in 1984 by Dr. G. Viswanathan, a former parliamentarian and minister in the Tamil Nadu Government, as a self-financing institution called the ‘Vellore Engineering College’. Since then the institution has grown from strength to strength. Conferred as a ‘Deemed University’ in 2001 by the UMHRD, VIT University currently offers 62 degree programs to over 29,000 students in its 2 campuses at Vellore and Chennai.</string>
+    <string name="hello_world">We are Trinity Developers</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginbutton">Log In</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="vertical_grid_title"><![CDATA[Vertical Video Grid]]></string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="init_text">00:00</string>
+    <string name="play_pause_description">Play Pause Button</string>
+    <string name="loading">Loading…</string>
+    <string name="no_video_found">No video was found</string>
+    <string name="about_app">About DemoCast Player</string>
+    <string name="version">Version: %1$s</string>
+    <string name="popular_header">Popular Videos</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">startPosition</string>
+    <string name="search_results">Search Results</string>
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_inaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="oops">Oops</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_mainpage">mainpage</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_loggedin">loggedin</string>
+
+    <string-array name="screen">
+        <item>Home</item>
+        <item>Schools</item>
+        <item>   SCSE</item>
+        <item>   SITE</item>
+        <item>Downloads</item>
+        <item>About Us</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_aboutus">aboutus</string>
+    <string name="title_activity_notifications">notifications</string>
+    <string name="title_activity_rowview">rowview</string>
+    <string name="title_activity_headerview">headerview</string>
+    <string name="title_activity_scse">scse</string>
+    <string name="select_course"> Select Course:</string>
+    <string name="select_product1">Examination:</string>
+
+    <string-array name="all_products">
+        <item>----SELECT----</item>
+        <item>CSE-220 Data Structures And Algorithms</item>
+        <item>CSE-208 Theory Of Computation</item>
+        <item>CSE-205 Computer Architecture And Organisation</item>
+        <item>CSE-219 Object Oriented Programming And Paradigm</item>
+        <item>MAT-203 Numerical Analysis</item>
+        <item>Go Back</item>
+    </string-array>
+    <string-array name="product">
+        <item>----SELECT----</item>
+        <item>CAT I</item>
+        <item>CAT II</item>
+        <item>Go Back</item>
+    </string-array>
+    <string-array name="all_products11">
+        <item>----SELECT----</item>
+        <item>ITE-103 Data Structures And Algorithms</item>
+        <item>ITE-201 Human Computer Interaction</item>
+        <item>ITE-204 Computer Architecture And Organisation</item>
+        <item>ITE-207 Programming in JAVA</item>
+        <item>MAT-104 Probability and Statistics</item>
+        <item>MAT-106 Discrete Mathematics</item>
+        <item>Go Back</item>
+    </string-array>
+
+    <string name="title_activity_site">site</string>
+
+</resources>
